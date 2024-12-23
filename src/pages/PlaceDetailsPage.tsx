@@ -5,9 +5,7 @@ import { fetchPlaces } from "../redux/actions";
 import { Button } from "@mui/material";
 import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 
-type Props = {};
-
-const PlaceDetailsPage = (props: Props) => {
+const PlaceDetailsPage = () => {
   const { id } = useParams();
   const dispatch = useDispatch();
 
