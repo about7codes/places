@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Taj Mahal",
+    "image": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A white marble mausoleum in Agra, India, the Taj Mahal is one of the most iconic structures in the world. Built by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, the monument is a symbol of eternal love. The construction took over 20 years, employing thousands of artisans and laborers to bring this architectural marvel to life. The Taj Mahal is not only a UNESCO World Heritage Site but also a stunning example of Mughal architecture that blends elements from Persian, Ottoman Turkish, and Indian styles.",
+    "description2": "The Taj Mahal is set amidst lush gardens and reflects in a pristine water channel, creating a breathtaking view. The main building, with its majestic dome and four minarets, stands at the heart of the complex, surrounded by a series of courtyards, gardens, and smaller structures. Every year, millions of visitors from across the globe come to witness this breathtaking symbol of love, making it one of the most visited tourist destinations in the world.",
+    "short_description": "A symbol of eternal love, the Taj Mahal is a white marble mausoleum in Agra, India, known for its stunning Mughal architecture and breathtaking gardens."
+  },
+  {
+    "id": 2,
+    "name": "Great Wall of China",
+    "image": "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Great Wall of China is a series of fortifications that stretch across northern China, built to protect the country from invasions and raids. Spanning over 13,000 miles, the wall is one of the most remarkable feats of engineering ever achieved by humankind. Originally constructed by various dynasties, including the Qin, Han, and Ming, it was made using stone, brick, tamped earth, and other materials depending on the region. The wall also served as a symbol of Chinese strength and resilience throughout history.",
+    "description2": "Aside from its military function, the Great Wall also played a role in controlling trade and immigration, helping to define the borders of ancient China. Today, parts of the wall are popular tourist attractions, offering visitors a chance to walk along sections of this historical monument and marvel at its vastness. Whether it's the winding paths or the breathtaking mountain views, the Great Wall of China is a must-see for anyone interested in history and culture.",
+    "short_description": "A series of fortifications stretching over 13,000 miles, the Great Wall of China is a historical monument symbolizing China's strength and resilience."
+  },
+  {
+    "id": 3,
+    "name": "Machu Picchu",
+    "image": "https://plus.unsplash.com/premium_photo-1733349618961-6eedd41767eb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Located high in the Peruvian Andes, Machu Picchu is an ancient Inca city that dates back to the 15th century. Thought to have been built as a royal estate or a religious site, it was abandoned in the 16th century during the Spanish Conquest. The site remained largely forgotten until its rediscovery in 1911 by explorer Hiram Bingham. Its precise purpose remains a mystery, but its stunning architecture and views have captivated visitors for centuries.",
+    "description2": "The city is a masterpiece of Inca engineering, featuring sophisticated terracing, agricultural systems, and impressive stone structures that blend seamlessly with the natural environment. Visitors to Machu Picchu can explore its sacred temples, impressive buildings, and narrow passageways while enjoying spectacular views of the surrounding mountains and valleys. It is not only a UNESCO World Heritage Site but also one of the New Seven Wonders of the World, drawing millions of tourists every year.",
+    "short_description": "An ancient Inca city nestled in the Peruvian Andes, Machu Picchu is famous for its impressive stone structures and stunning mountain views."
+  },
+  {
+    "id": 4,
+    "name": "Colosseum",
+    "image": "https://plus.unsplash.com/premium_photo-1661963952208-2db3512ef3de?q=80&w=2144&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Colosseum is an ancient amphitheater located in the heart of Rome, Italy, and is one of the most famous landmarks of the Roman Empire. Built between 70 and 80 AD under the emperors Vespasian and Titus, it could hold up to 50,000 spectators. The Colosseum was primarily used for gladiatorial contests, public spectacles, and other events such as animal hunts and mock naval battles. It remains a symbol of the grandeur and brutality of ancient Roman culture.",
+    "description2": "Over the centuries, the Colosseum has endured earthquakes, stone robbers, and the ravages of time. Despite this, it still stands as a testament to Roman engineering and architecture. Today, the Colosseum is one of Rome's most visited tourist attractions, offering visitors a glimpse into the ancient past. It continues to inspire awe with its massive size, intricate design, and historical significance.",
+    "short_description": "An ancient Roman amphitheater in Rome, Italy, the Colosseum is a symbol of Roman grandeur and was once used for gladiatorial contests and public spectacles."
+  },
+  {
+    "id": 5,
+    "name": "Pyramids of Giza",
+    "image": "https://images.unsplash.com/photo-1705874930271-88eeb8f533dc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Pyramids of Giza, located on the outskirts of Cairo, Egypt, are some of the most iconic and enduring symbols of ancient Egyptian civilization. The three pyramids were built during the Fourth Dynasty of the Old Kingdom, around 4,500 years ago. The Great Pyramid, the largest of the three, was constructed for Pharaoh Khufu and originally stood at 481 feet. These monumental structures were built as tombs for the pharaohs, designed to protect their bodies and possessions in the afterlife.",
+    "description2": "The Pyramids of Giza are considered one of the Seven Wonders of the Ancient World, and they continue to fascinate scholars, archaeologists, and tourists alike. The precise techniques used to construct these massive structures remain a mystery, with many theories suggesting advanced engineering skills and manpower. Visitors to the site can explore the pyramids, the nearby Sphinx, and the surrounding necropolis, which offers a unique look into the grandeur of ancient Egypt.",
+    "short_description": "The Pyramids of Giza are ancient Egyptian tombs and one of the Seven Wonders of the Ancient World, symbolizing the grandeur of Egyptian civilization."
+  },
+  {
+    "id": 6,
+    "name": "Statue of Liberty",
+    "image": "https://plus.unsplash.com/premium_photo-1694475364942-b755ad751a40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Statue of Liberty, standing on Liberty Island in New York Harbor, is a symbol of freedom, democracy, and the spirit of the United States. A gift from France in 1886, the statue was designed by sculptor Frédéric Auguste Bartholdi and was intended to commemorate the centennial of the American Declaration of Independence. The statue depicts a woman holding a torch in her right hand and a tablet in her left, symbolizing enlightenment and the rule of law.",
+    "description2": "Over the years, the Statue of Liberty has become a global icon, representing hope and liberty to people around the world. The statue is not only a landmark for those arriving by sea but also a site of reflection for millions of visitors each year. The island and the statue itself are part of a national park, and tourists can visit the pedestal, the crown, and the museum to learn more about the history of the statue and its significance in American culture.",
+    "short_description": "A symbol of freedom and democracy, the Statue of Liberty stands on Liberty Island in New York Harbor, representing hope and liberty to millions."
+  },
+  {
+    "id": 7,
+    "name": "Stonehenge",
+    "image": "https://images.unsplash.com/photo-1599833975787-5c143f373c30?q=80&w=2128&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Stonehenge is a prehistoric monument located in Wiltshire, England, known for its massive standing stones arranged in a circular formation. Built around 3000 BC to 2000 BC, the purpose of Stonehenge remains a subject of much debate. Some believe it was used for astronomical purposes, aligning with the solstices, while others think it may have been a site for religious ceremonies or burial rituals.",
+    "description2": "Despite being over 4,000 years old, Stonehenge continues to capture the imagination of people worldwide. Its impressive construction, with some stones weighing up to 25 tons, raises questions about the techniques used to transport and erect them. Today, Stonehenge is a UNESCO World Heritage Site and one of the most famous prehistoric monuments in the world, drawing thousands of visitors every year to marvel at its mystery and beauty.",
+    "short_description": "A prehistoric monument in England, Stonehenge is known for its massive standing stones and mysterious purpose, drawing visitors from around the world."
+  },
+  {
+    "id": 8,
+    "name": "Eiffel Tower",
+    "image": "https://plus.unsplash.com/premium_photo-1661963064037-cfcf2e10db2d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Eiffel Tower, located in Paris, France, is one of the most recognized structures in the world. Designed by engineer Gustave Eiffel and completed in 1889 for the Exposition Universelle (World's Fair), the tower was initially met with criticism but has since become an enduring symbol of France. Standing 1,083 feet tall, it was the tallest man-made structure in the world until the completion of the Chrysler Building in New York in 1930.",
+    "description2": "The Eiffel Tower is an architectural masterpiece made of wrought iron, and it has become a must-see attraction for visitors to Paris. Visitors can take an elevator or climb the stairs to the top, where they are rewarded with stunning panoramic views of the city. Whether seen by day or night, when the tower is illuminated, the Eiffel Tower remains a symbol of elegance, innovation, and the romance of Paris.",
+    "short_description": "A globally recognized symbol of France, the Eiffel Tower is a wrought iron masterpiece offering stunning panoramic views of Paris."
+  },
+  {
+    "id": 9,
+    "name": "Christ the Redeemer",
+    "image": "https://images.unsplash.com/photo-1698861318156-9f08765535da?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Christ the Redeemer is an iconic statue of Jesus Christ located atop the Corcovado Mountain in Rio de Janeiro, Brazil. Standing at 98 feet tall with arms outstretched, the statue overlooks the city and the bay below, serving as a symbol of Christianity and peace. The statue was designed by Brazilian sculptor Paul Landowski and French engineer Albert Caquot, and was completed in 1931. It is one of the largest Art Deco statues in the world and has become a symbol of Brazil's cultural and religious identity.",
+    "description2": "The statue's location on Corcovado Mountain allows for breathtaking views of Rio de Janeiro, including the famous Copacabana Beach and Sugarloaf Mountain. Christ the Redeemer was named one of the New Seven Wonders of the World in 2007 and continues to attract millions of tourists every year. Whether seen from the city below or visited in person, the statue offers a profound experience, blending art, faith, and the natural beauty of Brazil.",
+    "short_description": "An iconic statue atop Corcovado Mountain in Brazil, Christ the Redeemer symbolizes Christianity and offers breathtaking views of Rio de Janeiro."
+  },
+  {
+    "id": 10,
+    "name": "Sydney Opera House",
+    "image": "https://plus.unsplash.com/premium_photo-1697730221799-f2aa87ab2c5d?q=80&w=2148&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Sydney Opera House is one of the most distinctive and recognizable buildings in the world, located in Sydney, Australia. Designed by Danish architect Jørn Utzon and opened in 1973, the building is renowned for its unique design, featuring a series of white, sail-like roofs that mimic the shape of a ship's sails. The Opera House sits on Bennelong Point, surrounded by the waters of Sydney Harbour, providing stunning views of the harbor and the nearby Sydney Harbour Bridge.",
+    "description2": "Aside from its architectural significance, the Sydney Opera House is a world-class venue for the performing arts, hosting everything from opera and ballet to theater and concerts. Its design and acoustics make it one of the most celebrated buildings in the world, drawing millions of visitors each year who come to enjoy both the performances and the iconic structure itself.",
+    "short_description": "An iconic building in Sydney, Australia, the Sydney Opera House is known for its unique sail-like design and is a premier venue for the performing arts."
+  }
+]
